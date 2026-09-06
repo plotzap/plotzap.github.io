@@ -11,7 +11,7 @@ defaults:
   - scope:
       type: posts
     values:
-      layout: default
+      layout: post
 
 plugins:
   - jekyll-feed

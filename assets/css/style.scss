@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
 .post-date {
   font-size: 13px;
   color: #aaa;

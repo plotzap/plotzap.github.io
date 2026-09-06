@@ -1,3 +1,18 @@
+title: Lin's Essays
+description: Thoughts and essays.
+author: Lin
+lang: en
+
 theme: jekyll-theme-architect
-title: Lin's
-description: These are my thoughts and essays.
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

@@ -1,8 +1,8 @@
 # Dead Mars Lander Concepts And Ideas
 
-So you have a time machine and travel into the past to steal Mars lander concepts to tell the 7.99999 Billion people about them. But you don't know about any of them so I will help you with stealing these interesting time capsules.
+So you have a time machine and travel into the past to steal Mars lander concepts to tell the 7.99999 Billion people about them. But you don't know about any of them, so I will help you with stealing these interesting time capsules.
 
-If you're thinking about crewed landers and small stuff you’re thinking about the IMIS. The IMIS is a craft that has 2 crafts in it. One is a lander designed to land on Mars. And another is a re-entry capsule to not die, unlike Jedediah Kerman. Once it enters Mars, it undocks the lander and lands. It, then, opens a shell to reveal the ascent module and once you do your doodling you return back and redock to go back to Earth and decouple the re-entry module to not die, unlike him again. 
+If you're thinking about crewed landers and small stuff, you’re thinking about the IMIS. The IMIS is a craft that has 2 crafts in it. One is a lander designed to land on Mars. And another is a re-entry capsule to not die, unlike Jedediah Kerman. Once it enters Mars, it undocks the lander and lands. It, then, opens a shell to reveal the ascent module and once you do your doodling you return back and redock to go back to Earth and decouple the re-entry module to not die, unlike him again. 
  
 If the idea of American spacecraft offends you, then board the TMK-1. It’s designed to fly by  Mars. The TMK 1. It's your regular spacecraft but it goes to Mars and flies by. Not much other than Cyanobacteria producing oxygen for you which smells like Dad’s dirty old underwear. Sadly, it never flew because the massive N1 rocket kept blowing up and nuking the launchpad. That's good, the dirty underwear never flew.
 
